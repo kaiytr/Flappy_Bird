@@ -11,6 +11,7 @@ public class WallMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //newWall.transform.position = new Vector2(transform.position.x, Random.Range(-1.5f, 3.5f));
+        //timer -= timer;
     }
 }
